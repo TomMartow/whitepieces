@@ -1,0 +1,48 @@
+{
+	"info" : {
+		"name" : "SecretPieces",
+		"version" : 2
+	},
+	"default_locale" : "en",
+	"aliases" : {
+		"fence_10piece" : "file(entities/construction/fence_10piece.json)",
+		"fence_xpiece" : "file(entities/construction/fence_xpiece.json)",
+		"fence_tpiece" : "file(entities/construction/fence_tpiece.json)",
+		"fence_epiece" : "file(entities/construction/fence_epiece.json)",
+		"fence_expiece" : "file(entities/construction/fence_expiece.json)",
+		"fence_cpiece" : "file(entities/construction/fence_cpiece.json)",
+		"fence_ppiece" : "file(entities/construction/fence_ppiece.json)",
+		"fence_spiece" : "file(entities/construction/fence_spiece.json)"
+	},
+	"overrides" : {
+		"/stonehearth/entities/construction/picket_fence/picket_fence_iconic.qb" : "file(entities/construction/picket_fence_iconic.qb)",
+		"/stonehearth/entities/construction/picket_fence/picket_fence.png" : "file(entities/construction/picket_fence.png)",
+		"/stonehearth/entities/construction/picket_fence/picket_fence.qb" : "file(entities/construction/picket_fence.qb)",
+		"/stonehearth/entities/construction/picket_fence_gate/picket_fence_gate_iconic.qb" : "file(entities/construction/picket_fence_gate_iconic.qb)",
+		"/stonehearth/entities/construction/picket_fence_gate/picket_fence_gate.png" : "file(entities/construction/picket_fence_gate.png)",
+		"/stonehearth/entities/construction/picket_fence_gate/picket_fence_gate.qb" : "file(entities/construction/picket_fence_gate.qb)",
+		"/endpieces/entities/construction/fence_10piece.qb" : "file(entities/construction/fence_10piece.qb)",
+		"/endpieces/entities/construction/fence_xpiece.qb" : "file(entities/construction/fence_xpiece.qb)",
+		"/endpieces/entities/construction/fence_tpiece.qb" : "file(entities/construction/fence_tpiece.qb)",
+		"/endpieces/entities/construction/fence_epiece.qb" : "file(entities/construction/fence_epiece.qb)",
+		"/endpieces/entities/construction/fence_expiece.qb" : "file(entities/construction/fence_expiece.qb)",
+		"/endpieces/entities/construction/fence_cpiece.qb" : "file(entities/construction/fence_cpiece.qb)",
+		"/endpieces/entities/construction/fence_ppiece.qb" : "file(entities/construction/fence_ppiece.qb)",
+		"/endpieces/entities/construction/fence_spiece.qb" : "file(entities/construction/fence_spiece.qb)",
+		"/endpieces/entities/construction/fence_xpiece_iconic.qb" : "file(entities/construction/fence_xpiece_iconic.qb)",
+		"/endpieces/entities/construction/fence_tpiece_iconic.qb" : "file(entities/construction/fence_tpiece_iconic.qb)",
+		"/endpieces/entities/construction/fence_epiece_iconic.qb" : "file(entities/construction/fence_epiece_iconic.qb)",
+		"/endpieces/entities/construction/fence_expiece_iconic.qb" : "file(entities/construction/fence_expiece_iconic.qb)",
+		"/endpieces/entities/construction/fence_cpiece_iconic.qb" : "file(entities/construction/fence_cpiece_iconic.qb)",
+		"/endpieces/entities/construction/fence_ppiece_iconic.qb" : "file(entities/construction/fence_ppiece_iconic.qb)",
+		"/endpieces/entities/construction/fence_spiece_iconic.qb" : "file(entities/construction/fence_spiece_iconic.qb)",
+		"/endpieces/entities/construction/fence_10piece.png" : "file(entities/construction/fence_10piece.png)",
+		"/endpieces/entities/construction/fence_xpiece.png" : "file(entities/construction/fence_xpiece.png)",
+		"/endpieces/entities/construction/fence_tpiece.png" : "file(entities/construction/fence_tpiece.png)",
+		"/endpieces/entities/construction/fence_epiece.png" : "file(entities/construction/fence_epiece.png)",
+		"/endpieces/entities/construction/fence_expiece.png" : "file(entities/construction/fence_expiece.png)",
+		"/endpieces/entities/construction/fence_cpiece.png" : "file(entities/construction/fence_cpiece.png)",
+		"/endpieces/entities/construction/fence_ppiece.png" : "file(entities/construction/fence_ppiece.png)",
+		"/endpieces/entities/construction/fence_spiece.png" : "file(entities/construction/fence_spiece.png)"
+	}
+}
